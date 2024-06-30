@@ -11,8 +11,8 @@ def request():
 
     payload = {
         'client_id': "126690",
-        'client_secret': '2f81b0e1740748f05efd95919e806c51e33ada3b',
-        'refresh_token': '422123aa4680f809f951f9ab7387964dac6472cf',
+        'client_secret': 'YOUR_SECRET',
+        'refresh_token': 'YOUR_TOKEN',
         'grant_type': "refresh_token",
         'f': 'json'
     }
